@@ -1846,7 +1846,3 @@ section {
 .error-message.d-block p {
   margin-bottom: 0rem!important;
 }
-
-.error-message.d-block ul {
-  margin-bottom: -2rem;
-}
